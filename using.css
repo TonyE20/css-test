@@ -2,5 +2,9 @@ h1 {
     background-color: aqua;
     color:blueviolet;
     opacity: .3;
-    
+}
+
+p{
+    background-color:coral;
+    font-size: 2em;
 }
