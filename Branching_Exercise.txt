@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Part I
 
 1. What git command creates a branch?
@@ -60,3 +61,17 @@ p{
 8. Git add .
 9. Git commit -m "merge files"
 
+=======
+1. What git command creates a branch?
+Answer: git branch
+
+2. What is the difference between a fast-forward 
+
+3. and recursive merge?
+
+4. What git command changes to another branch?
+
+5. What git command deletes a branch?
+
+6. How do merge conflicts happen?
+>>>>>>> add-css
