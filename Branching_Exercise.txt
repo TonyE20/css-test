@@ -44,7 +44,7 @@ p{
     font-size: 2em;
 }
 
-6. User correct changes
+6. User corrects changes
 h1 {
     background-color: rgb(195, 55, 167);
     color:black
@@ -56,5 +56,7 @@ p{
     font-size: 2em;
 }
 
-7. Git add .
-8. Git commit
+7. Git status
+8. Git add .
+9. Git commit -m "merge files"
+
