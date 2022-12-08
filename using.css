@@ -1,10 +1,11 @@
 h1 {
-    background-color:orchid;
+    background-color: rgb(55, 195, 74);
     color:blueviolet;
     opacity: .3;
 }
 
 p{
-    background-color:rgb(131, 128, 130);
-    font-size: 2em;
+    background-color:rgb(9, 138, 95);
+    font-size: 3em;
+
 }
